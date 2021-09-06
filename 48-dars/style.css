@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    display: flex;
+}
+img{
+    margin: 5px;
+}
+.img-fluid{
+    padding: 2rem;
+}
